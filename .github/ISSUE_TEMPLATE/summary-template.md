@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-# Title
-# Source Code
+# Information
+# Code
 # Reading Motivation
 # Summary
 # Background
