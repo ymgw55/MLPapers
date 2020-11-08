@@ -14,6 +14,7 @@ assignees: ''
 ### URL
 ### Authors
 ### Published at
+### Date of issue
 ### Related Websites
 ### Package
 ### Code
