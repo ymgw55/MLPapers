@@ -26,3 +26,7 @@
 [URLエンコード・デコード](https://tech-unlimited.com/urlencode.html)
 
 --->
+
+## TODO
+
+POTの論文全部よむ
